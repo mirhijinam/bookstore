@@ -1,7 +1,6 @@
 # Книжный магазин
 
-![bookstore_er_diagram](https://user-images.githubusercontent.com/59884652/220317435-e8b11882-fa45-46a1-9bab-5eb6c09e6f19.jpeg)
-
+<img width="781" alt="bookstore_erdiagram" src="https://user-images.githubusercontent.com/59884652/220367944-e98a01b6-d043-4abc-90ec-c5ed1e0f98cc.png">
 
 ## Описание страниц
 С любой страницы можно перейти на главную, нажав соответвующую кнопку.
@@ -64,7 +63,7 @@
 * Строка ввода информации о книгах
 * Кнопка для сохранения заказа в БД
 
-<img width="1185" alt="bookstore_diagram_site" src="https://user-images.githubusercontent.com/59884652/220226610-3f3c9391-762b-45e2-bc92-dd60fcfbfe34.png">
+<img width="1056" alt="bookstore_hierarchy" src="https://user-images.githubusercontent.com/59884652/220368107-74b8b0e4-51ff-4832-8162-782c917e7fb9.png">
 
 
 ## Сценарии использования
