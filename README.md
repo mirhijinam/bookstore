@@ -1,6 +1,7 @@
 # Книжный магазин
 
-<img width="953" alt="bookstore_diagram_db" src="https://user-images.githubusercontent.com/59884652/220226576-29292535-ce66-4fe2-a55d-13069db11759.png">
+![bookstore_er_diagram](https://user-images.githubusercontent.com/59884652/220317435-e8b11882-fa45-46a1-9bab-5eb6c09e6f19.jpeg)
+
 
 ## Описание страниц
 С любой страницы можно перейти на главную, нажав соответвующую кнопку.
