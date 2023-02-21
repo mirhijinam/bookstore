@@ -1,6 +1,6 @@
 # Книжный магазин
 
-<img width="1185" alt="Снимок экрана 2023-02-19 в 11 55 03 PM" src="https://user-images.githubusercontent.com/59884652/219974665-107e7798-c898-4ba2-8126-98056d6e73e1.png">
+<img width="953" alt="bookstore_diagram_db" src="https://user-images.githubusercontent.com/59884652/220226576-29292535-ce66-4fe2-a55d-13069db11759.png">
 
 ## Описание страниц
 С любой страницы можно перейти на главную, нажав соответвующую кнопку.
@@ -42,6 +42,8 @@
 * Форма ввода информации о клиенте
 * Форма ввода информации о книгах
 * Кнопка для сохранения заказа в БД
+
+<img width="1185" alt="bookstore_diagram_site" src="https://user-images.githubusercontent.com/59884652/220226610-3f3c9391-762b-45e2-bc92-dd60fcfbfe34.png">
 
 
 ## Сценарии использования
